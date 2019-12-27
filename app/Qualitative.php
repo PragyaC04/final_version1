@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Qualitative extends Model
 {
-    protected $table='qualitatives';
+    protected $table='qualitative_analysis';
     protected $primaryKey = 'qid';
 
     //protected $primaryKey = ['qid', 'setid'];

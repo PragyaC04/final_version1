@@ -90,7 +90,6 @@
             <td>{{$t->setname}}</td>
             <td><button type="submit" class="btn btn-link">View</button></td>
             </tr>
-            
             </form>
         @endforeach
         </tbody>

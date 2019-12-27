@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Creative extends Model
 {
-    protected $table='creatives';
+    protected $table='creative_test';
     protected $primaryKey = 'qid';
 }

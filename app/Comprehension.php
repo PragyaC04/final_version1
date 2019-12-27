@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Comprehension extends Model
 {
-    protected $table='comprehensions';
+    protected $table='comprehension';
     protected $primaryKey = 'qid';
 }
